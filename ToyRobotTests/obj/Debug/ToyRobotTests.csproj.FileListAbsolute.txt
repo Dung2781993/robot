@@ -1,0 +1,17 @@
+D:\Working\src\REA_Challenge\ToyRobotTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Working\src\REA_Challenge\ToyRobotTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Working\src\REA_Challenge\ToyRobotTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Working\src\REA_Challenge\ToyRobotTests\bin\Debug\ToyRobotTests.dll
+D:\Working\src\REA_Challenge\ToyRobotTests\bin\Debug\ToyRobotTests.pdb
+D:\Working\src\REA_Challenge\ToyRobotTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Working\src\REA_Challenge\ToyRobotTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Working\src\REA_Challenge\ToyRobotTests\bin\Debug\ToyRobot.exe
+D:\Working\src\REA_Challenge\ToyRobotTests\bin\Debug\ToyRobot.pdb
+D:\Working\src\REA_Challenge\ToyRobotTests\bin\Debug\ToyRobot.exe.config
+D:\Working\src\REA_Challenge\ToyRobotTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Working\src\REA_Challenge\ToyRobotTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Working\src\REA_Challenge\ToyRobotTests\obj\Debug\ToyRobotTests.csprojAssemblyReference.cache
+D:\Working\src\REA_Challenge\ToyRobotTests\obj\Debug\ToyRobotTests.csproj.CoreCompileInputs.cache
+D:\Working\src\REA_Challenge\ToyRobotTests\obj\Debug\ToyRobotTests.csproj.CopyComplete
+D:\Working\src\REA_Challenge\ToyRobotTests\obj\Debug\ToyRobotTests.dll
+D:\Working\src\REA_Challenge\ToyRobotTests\obj\Debug\ToyRobotTests.pdb

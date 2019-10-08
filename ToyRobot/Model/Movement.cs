@@ -8,11 +8,11 @@ namespace ToyRobot.Model
 {
     public class Movement
     {
-        private const string INVALID_FORMAT_PLACE = "Invalid command, Please follow the format \nPLACE X, Y, Z";
-        private const string OUT_OF_TABLE = "Invalid position, your place position is out of bound";
-        private const string NOT_PLACE_ROBOT = "Robot is not placed yet, Please place robot position";
-        private const string INVALID_COMAND = "Invalid command, Please follow the format \nPLACE X,Y,Z\nMOVE\nLEFT\nRIGHT\nREPORT";
-        private const string IGNORE_COMAND = "Robot did not understand this command, please try again";
+        public const string INVALID_FORMAT_PLACE = "Invalid command, Please follow the format \nPLACE X, Y, Z";
+        public const string OUT_OF_TABLE = "Invalid position, your place position is out of bound";
+        public const string NOT_PLACE_ROBOT = "Robot is not placed yet, Please place robot position";
+        public const string INVALID_COMAND = "Invalid command, Please follow the format \nPLACE X,Y,Z\nMOVE\nLEFT\nRIGHT\nREPORT";
+        public const string IGNORE_COMAND = "Robot did not understand this command, please try again";
 
 
         private int xPosition = 0;
