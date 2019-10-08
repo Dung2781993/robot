@@ -24,6 +24,8 @@ namespace ToyRobot.Model
         private string direction = "";
         private bool checkPlace = false;
 
+        private string[] positionArray = { "NORTH", "EAST", "WEST", "SOUTH" };
+
         //Initial  a square tabletop  of dimensions 5 units x 5 units
         public Movement(int x, int y)
         {
@@ -54,10 +56,18 @@ namespace ToyRobot.Model
                     yPosition = Int32.Parse(commandArr[2]);
                     direction = commandArr[3];
 
+                    //Check valid direction
+                    if (!positionArray.Contains(direction.ToUpper()))
+                    {
+                        result = INVALID_FORMAT_PLACE;
+                        return result;
+                    }
+
                     //Check out of bound
                     if (!checkPosition(xPosition, yPosition))
                     {
                         result = OUT_OF_TABLE;
+                        return result;
                     }
                     else
                     {
