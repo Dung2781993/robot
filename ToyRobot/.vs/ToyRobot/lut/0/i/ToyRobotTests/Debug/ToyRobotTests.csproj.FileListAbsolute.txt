@@ -1,7 +1,0 @@
-D:\Working\src\REA_Challenge\ToyRobot\.vs\ToyRobot\lut\0\b\ToyRobotTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-D:\Working\src\REA_Challenge\ToyRobot\.vs\ToyRobot\lut\0\b\ToyRobotTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-D:\Working\src\REA_Challenge\ToyRobot\.vs\ToyRobot\lut\0\b\ToyRobotTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-D:\Working\src\REA_Challenge\ToyRobot\.vs\ToyRobot\lut\0\b\ToyRobotTests\bin\Debug\ToyRobotTests.dll
-D:\Working\src\REA_Challenge\ToyRobot\.vs\ToyRobot\lut\0\i\ToyRobotTests\Debug\ToyRobotTests.csproj.CoreCompileInputs.cache
-D:\Working\src\REA_Challenge\ToyRobot\.vs\ToyRobot\lut\0\i\ToyRobotTests\Debug\ToyRobotTests.csproj.CopyComplete
-D:\Working\src\REA_Challenge\ToyRobot\.vs\ToyRobot\lut\0\i\ToyRobotTests\Debug\ToyRobotTests.dll
